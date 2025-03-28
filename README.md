@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jesli Priya  
+# 👋 Hi, I'm Jesli K 
 
 ## 💡 About Me  
 I am a **Computer Science student** passionate about **web development, artificial intelligence, and software development**. I enjoy solving problems, building projects, and learning new technologies to enhance my skills.  
