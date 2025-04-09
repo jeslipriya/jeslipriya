@@ -4,10 +4,10 @@
 I am a **Computer Science student** passionate about **web development, artificial intelligence, and software development**. I enjoy solving problems, building projects, and learning new technologies to enhance my skills.  
 
 ## 🚀 Skills & Technologies  
-- **Programming Languages:** Python, JavaScript  
+- **Programming Languages:** Python, Java  
 - **Web Development:** HTML, CSS, JavaScript, Flask  
-- **Databases:** SQLite3  
-- **APIs & Tools:** Gemini AI, Flask-Mail, Leaflet.js  
+- **Databases:** SQLite3, MySQL
+- **APIs & Tools:** Gemini AI,Open AI, Flask-Mail, Leaflet.js  
 - **Version Control:** Git & GitHub  
 
 ## 🎯 Currently Learning  
