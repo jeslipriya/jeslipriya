@@ -19,7 +19,7 @@ I am a **Computer Science student** passionate about **web development, artifici
 I am open to collaborating on **web development projects, AI-based applications, and open-source contributions**. Feel free to reach out!  
 
 ## 📫 Connect With Me  
-- **GitHub:** [@jeslipriya](https://github.com/jeslipriya)  
+- **Linkedin:** [@jeslipriya](https://www.linkedin.com/in/jesli-priya-k-2205j07)  
 - **Email:** *jeslipriya07@gmail.com*  
 
 ## ⚡ Fun Fact  
