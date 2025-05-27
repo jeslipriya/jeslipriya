@@ -12,6 +12,7 @@ I'm a 2nd-year **Computer Science student** passionate about solving problems an
 - **Web:** HTML, CSS, JS, Flask
 - **Databases:** SQLite3, MySQL
 - **Version Control:** Git & GitHub
+- **Tools & APIs:** Gemini AI, OpenAI, Flask-Mail, Leaflet.js 
 
 ---
 
