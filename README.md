@@ -1,137 +1,35 @@
-
 # 👋 Hi, I'm Jesli K
-
-  
 
 ## 💡 About Me
 
-  
-
-I'm a 2nd-year **Computer Science student** passionate about solving problems and building impactful tech solutions. I enjoy working on **web development**, **software projects**, and exploring the world of **AI**. Learning and improving every day is my mantra.
-
-  
+I'm a 2nd-year **Computer Science student** passionate about **web dev**, **AI**, and **software projects**. I love building cool things and learning every day.
 
 ---
 
-  
+## 🛠️ Skills
 
-## 🛠️ Skills & Technologies
-
-  
-
-### Programming Languages
-
-  
-
-* Python
-
-* C
-
-* C++
-
-* C#
-
-* Java
-
-  
-
-### Web Development
-
-  
-
-* HTML5, CSS3, JavaScript
-
-* Flask (Python)
-
-* API Integration (RESTful APIs)
-
-* Frontend Framework: Currently learning React.js
-
-  
-
-### Tools & Databases
-
-  
-
-* SQLite3, MySQL
-
-* Git & GitHub for version control
-
-* Flask-Mail for email notifications
-
-* AI tools: Gemini API, OpenAI
-
-* Leaflet.js for interactive maps
-
-  
+**Languages:** Python, C, C++, C#, Java
+**Web:** HTML, CSS, JS, Flask, React.js (learning)
+**Databases:** SQLite3, MySQL
+**Tools:** Git, GitHub, Flask-Mail, Gemini API, OpenAI, Leaflet.js
 
 ---
 
-  
+## 🚀 Projects
 
-## 🌱 Currently Learning
-
-  
-
-* Advanced Java
-
-* Frontend development with React.js
-
-* AI-powered applications and API integrations
-
-  
+* **TasteBudz** – Responsive food-ordering app with dashboard & reservations
+* **HealthMate AI** – Flask app with chatbot, mood tracker & hospital locator
+* **Expense Analyzer** – Tracks & analyzes expenses with graphs & insights
 
 ---
 
-  
+## 🤝 Let’s Connect
 
-## 📌 Projects Highlights
-
-  
-
-*  **TasteBudz** – A responsive food-ordering web app with user dashboard and reservation features
-
-*  **AI Health Care** – A Flask-based health tracker with chatbot, mood tracker, and hospital locator using Gemini API
-
-*  **Expense Manager** – Full-stack app that tracks expenses, provides statistics, and gives savings tips with graphs
-
-  
+**LinkedIn:** [@jeslipriya](https://www.linkedin.com/in/jesli-priya-k-2205j07)
+**Email:** [jeslipriya07@gmail.com](mailto:jeslipriya07@gmail.com)
 
 ---
 
-  
+## ⚡ Fun Fact
 
-## 🤝 Let's Collaborate
-
-  
-
-I'm open to collaborating on:
-
-  
-
-* Web development projects (Full Stack)
-
-* AI-based tools and applications
-
-* Open-source contributions
-
-  
-
----
-
-  
-
-## 📫 Contact Me
-
-  
-
-*  **LinkedIn:** [@jeslipriya](https://www.linkedin.com/in/jesli-priya-k-2205j07)
-
-*  **Email:** [jeslipriya07@gmail.com](mailto:jeslipriya07@gmail.com)
-
-  
-
----
-  
-
-> "Code with purpose, debug with patience, and build like the future depends on it."
+F1 addict 🏎️ with a big dream: Smart house + BMW 530i powered by caffeine & code ☕💻
