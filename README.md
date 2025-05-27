@@ -2,7 +2,7 @@
 
 ## 💡 About Me
 
-I'm a 2nd-year **Computer Science student** passionate about **web dev**, **AI**, and **software projects**. I love building cool things and learning every day.
+I'm a 2nd-year **Computer Science student** passionate about solving problems and building impactful tech solutions. I enjoy working on **web development**, **software projects**, and exploring the world of **AI**. 
 
 ---
 
