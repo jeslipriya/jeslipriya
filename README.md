@@ -9,7 +9,7 @@ I'm a 2nd-year **Computer Science student** passionate about solving problems an
 ## 🛠️ Skills
 
 - **Languages:** Python, C, C++, C#, Java
-- **Web:** HTML, CSS, JS, Flask, React.js (learning)
+- **Web:** HTML, CSS, JS, Flask
 - **Databases:** SQLite3, MySQL
 - **Tools:** Git, GitHub, Flask-Mail, Gemini API, OpenAI, Leaflet.js
 
