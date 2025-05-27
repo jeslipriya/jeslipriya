@@ -25,8 +25,8 @@ I'm a 2nd-year **Computer Science student** passionate about solving problems an
 
 ## 🤝 Let’s Connect
 
-**LinkedIn:** [@jeslipriya](https://www.linkedin.com/in/jesli-priya-k-2205j07)
-**Email:** [jeslipriya07@gmail.com](mailto:jeslipriya07@gmail.com)
+- **LinkedIn:** [@jeslipriya](https://www.linkedin.com/in/jesli-priya-k-2205j07)
+- **Email:** [jeslipriya07@gmail.com](mailto:jeslipriya07@gmail.com)
 
 ---
   
