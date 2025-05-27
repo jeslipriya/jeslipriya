@@ -29,7 +29,6 @@ I'm a 2nd-year **Computer Science student** passionate about **web dev**, **AI**
 **Email:** [jeslipriya07@gmail.com](mailto:jeslipriya07@gmail.com)
 
 ---
+  
 
-## ⚡ Fun Fact
-
-F1 addict 🏎️ with a big dream: Smart house + BMW 530i powered by caffeine & code ☕💻
+> "Code with purpose, debug with patience, and build like the future depends on it."
