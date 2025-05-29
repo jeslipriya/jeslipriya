@@ -24,6 +24,14 @@ I'm a 2nd-year **Computer Science student** passionate about solving problems an
 
 ---
 
+## 🤝 Open to Collaborate On
+
+- Web dev projects (Flask, React)  
+- AI & chatbot-based apps  
+- Open-source contributions  
+
+---
+
 ## 🤝 Let’s Connect
 
 - **LinkedIn:** [@jeslipriya](https://www.linkedin.com/in/jesli-priya-k-2205j07)
