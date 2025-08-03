@@ -1,4 +1,4 @@
-# Hi, I'm Jesli K
+# Hi, I'm Jesli Priya
 
 ## About Me
 
