@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Jesli K
+# Hi, I'm Jesli K
 
-## 💡 About Me
+## About Me
 
 I'm a 2nd-year **Computer Science student** passionate about solving problems and building impactful tech solutions. I enjoy working on **web development**, **software projects**, and exploring the world of **AI**. 
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - **Languages:** Python, C, C++, C#, Java
 - **Web:** HTML, CSS, JS, Flask
@@ -16,7 +16,7 @@ I'm a 2nd-year **Computer Science student** passionate about solving problems an
 
 ---
 
-## 🚀 Projects
+## Projects
 
 * **TasteBudz** – Responsive food-ordering app with dashboard & reservations
 * **HealthMate AI** – Flask app with chatbot, mood tracker & hospital locator
@@ -24,7 +24,7 @@ I'm a 2nd-year **Computer Science student** passionate about solving problems an
 
 ---
 
-## 🤝 Open to Collaborate On
+## Open to Collaborate On
 
 - Web dev projects (Flask, React)  
 - AI & chatbot-based apps  
@@ -32,7 +32,7 @@ I'm a 2nd-year **Computer Science student** passionate about solving problems an
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 - **LinkedIn:** [@jeslipriya](https://www.linkedin.com/in/jesli-priya-k-2205j07)
 - **Email:** [jeslipriya07@gmail.com](mailto:jeslipriya07@gmail.com)
