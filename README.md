@@ -18,9 +18,9 @@ I'm a 2nd-year **Computer Science student** passionate about solving problems an
 
 ## Projects
 
-* **TasteBudz** – Responsive food-ordering app with dashboard & reservations
-* **HealthMate AI** – Flask app with chatbot, mood tracker & hospital locator
-* **Expense Analyzer** – Tracks & analyzes expenses with graphs & insights
+* **TasteBudz** - Responsive food-ordering app with dashboard & reservations
+* **HealthMate AI**   Flask app with chatbot, mood tracker & hospital locator
+* **Expense Analyzer** - Tracks & analyzes expenses with graphs & insights
 
 ---
 
